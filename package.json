@@ -1,0 +1,32 @@
+{
+  "name": "namebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolty2142/namebook.git"
+  },
+  "author": "Andrew Beebe Langford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolty2142/namebook/issues"
+  },
+  "homepage": "https://github.com/bolty2142/namebook#readme",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "http": "0.0.0",
+    "massive": "^2.6.0",
+    "passport": "^0.3.2",
+    "passport-auth0": "^0.6.0",
+    "socket.io": "^1.7.3",
+    "stripe": "^4.18.0"
+  }
+}
